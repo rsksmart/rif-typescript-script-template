@@ -14,6 +14,7 @@
 - [Typescript](https://www.typescriptlang.org/)
 - [Nodemon](https://nodemon.io/)
 - [`concurrently`](https://github.com/kimmobrunfeldt/concurrently)
+- Runs in Github Actions
 
 ## Usage
 
